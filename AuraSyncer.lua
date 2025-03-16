@@ -99,6 +99,7 @@ function updateAuras()
                 char.UpperTorso["r2f_aura_burst"].Flare.Enabled = showMaxEffect
                 char.UpperTorso["r2f_aura_burst"].Flare.Color = DSeq
                 char.UpperTorso["r2f_aura_burst"].Smoke.Color = DSeq
+                char.UpperTorso.Evading.Color = DSeq
             end
         end
     end
