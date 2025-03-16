@@ -10,6 +10,8 @@ Tiger style.
 Free ones with no whitelist are:
 
 Koi style,
-All abilities
+All abilities,
+QTEMinigame,
+AuraSyncer
 
 This repository is more so used for me to update scripts
